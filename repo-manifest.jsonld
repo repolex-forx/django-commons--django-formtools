@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-formtools/commit/93d2de65874e8cc73207f3bcb886f029ae03512a",
       "git:hexsha": "93d2de65874e8cc73207f3bcb886f029ae03512a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:23:19.018129+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-formtools/commit/965a83d71f5411ef1ef388fe73996abb578e11a1",
