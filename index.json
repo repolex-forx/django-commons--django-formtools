@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-formtools",
+  "versions": [
+    {
+      "commit": "93d2de65874e8cc73207f3bcb886f029ae03512a",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:23:19.018600+00:00"
+    }
+  ]
+}
